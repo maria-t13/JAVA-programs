@@ -1,4 +1,4 @@
-class Marks {
+class Sharedclass{
     String name;
     int marks;
 
