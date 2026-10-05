@@ -1,4 +1,4 @@
-class Student {
+class Grade {
     public static void main(String[] args) {
         int marks = 95;
 
