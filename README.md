@@ -18,7 +18,7 @@
 17. [write a java code to create a animal hierarchy with class animal sub class dog,fox,rabbit](Animalhierarchy.java)
 18. [write a java code to implement the abstraction by using shapes and 2 sub classes which can have functionality in different ways](Shapes.java)
 19. [write a java code to check whether a string is palindrome](Palindrome.java)
-20. [write a java code to create a class shared by two students objects for name and marks]
+20. [write a java code to create a class shared by two students objects for name and marks](Sharedclass.java)
 21. [write a java code to manage a todo list using arraylist](Todo.java)
 22. [write a java code to find the distinct absolute values using hashset](AbsoluteValues.java)
 23. [write a java code to access and remove elements using linked list operations](Listdemo.java)
