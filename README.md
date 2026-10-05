@@ -14,7 +14,7 @@
 13. [write a java code to find the second largest number](SecondLargest.java)
 14. [write a java code to reverse an array into place](Reverse.java)
 15. [write a java code to count vowels in string](Vowels.java)
-16. [write a java code for method overriding a string where each class inherits to string from object and overrides that to see how the object can be printed](
+16. [write a java code for method overriding a string where each class inherits to string from object and overrides that to see how the object can be printed](Overridding.java)
 17. [write a java code to create a animal hierarchy with class animal sub class dog,fox,rabbit](Animalhierarchy.java)
 18. [write a java code to implement the abstraction by using shapes and 2 sub classes which can have functionality in different ways](Shapes.java)
 19. [write a java code to check whether a string is palindrome](Palindrome.java)
@@ -23,4 +23,5 @@
 22. [write a java code to find the distinct absolute values using hashset](AbsoluteValues.java)
 23. [write a java code to access and remove elements using linked list operations](Listdemo.java)
 24.[write a java code to count anagramic groups](AnagramGroups.java)
-25. [write a java code to find two numbers whose sum equals the target ](Twosum.java)   
+25. [write a java code to find two numbers whose sum equals the target ](Twosum.java)
+26. [write a java code for arithimatic exception](Exception.java) 
